@@ -40,7 +40,7 @@ Created with ❤️ by Ngenoh
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Wizard-hash2/CryptoChatbot.git
 cd CryptoChatbot
 ```
 
