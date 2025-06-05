@@ -14,7 +14,8 @@ Created with ❤️ by Ngenoh
 - Automatic data refresh every 60 seconds
 
 ### Images
- image.png
+ ![image](https://github.com/user-attachments/assets/ea63beb5-2d17-45d1-9553-a14e946a0721)
+
  
 
 ### 2. Natural Language Processing
