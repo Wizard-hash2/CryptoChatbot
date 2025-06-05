@@ -13,6 +13,10 @@ Created with ❤️ by Ngenoh
 - Historical price data
 - Automatic data refresh every 60 seconds
 
+### Images
+ image.png
+ 
+
 ### 2. Natural Language Processing
 - Intelligent query understanding using NLTK
 - Conversational interface with greeting recognition
